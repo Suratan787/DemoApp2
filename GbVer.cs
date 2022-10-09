@@ -5,4 +5,3 @@
         public static string ConnectionString = "";
     }
 }
-/*alo*/
