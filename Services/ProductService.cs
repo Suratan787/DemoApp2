@@ -23,7 +23,7 @@ namespace DemoApp2.Services
                     string SQL = "select * from product Order by id ";
                     Res = con.Query<product>(SQL).ToList();
                 }
-                /*kfpodsfpokfo  */
+                /*kfpodsfpokfofdsfsdfgsf*/
             }
 
             catch (Exception ex)
